@@ -4,14 +4,19 @@
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+  Hi, I'm Janaki Ram!
+</h1>
+
+<h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast | Turning Data into Decisions 📊</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Janaki+Ram!+👋;Data+Scientist+%7C+ML+Enthusiast;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;RAG+%26+AI+Systems+Builder+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <strong>Welcome to my GitHub profile!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
 ---
@@ -21,7 +26,7 @@
 
 I'm **Pattimanchala Janaki Ram**, an aspiring **Data Scientist** passionate about uncovering insights hidden in data and building intelligent systems that make a real-world impact. I love working across the full data pipeline — from raw SQL queries to deploying ML models.
 
-I also share my learning journey on **Medium** and connect with the data community on **LinkedIn** 🚀
+I share my learning journey on **Medium** and connect with the data community on **LinkedIn** 🚀
 
 - 🔭 Currently building: **RAG-based AI systems & ML projects**
 - 🌱 Always learning: **Deep Learning, NLP, and MLOps**
@@ -81,7 +86,7 @@ I also share my learning journey on **Medium** and connect with the data communi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janakiram91373-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janakiram91373-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=janakiram91373-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
