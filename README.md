@@ -6,10 +6,10 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
-  Hi, I'm Janaki Ram!
+  Hi, I'm Pattimanchala Janaki Ram!
 </h1>
 
-<h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast | Turning Data into Decisions 📊</h3>
+<h3 align="center">🚀 Aspiring |AI ML Enginner | Data Scientist | ML Enthusiast | Turning Data into Decisions 📊</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=60&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;RAG+%26+AI+Systems+Builder+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%92%A1" alt="Typing SVG" />
